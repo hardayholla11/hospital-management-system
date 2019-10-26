@@ -1,0 +1,34 @@
+{
+    "patient": [{
+            "name": "Adeola Ajakaiye",
+            "email": "ddpumpin4love@yahoo.com",
+            "telephone": "08083727066",
+            "age": "32",
+            "diagnosis": "Pregnancy",
+            "status": "Admitted",
+            "nationality": "Nigerian",
+            "id": 1
+        },
+        {
+            "name": "Fatai Joseph",
+            "email": "josephf@gmail.com",
+            "telephone": "08023232420",
+            "age": "17",
+            "diagnosis": "Malaria",
+            "address": "7 Awope Street",
+            "nationality": "Nigerian",
+            "gender": "Male",
+            "marital": "Single",
+            "checkin": "13/6/19",
+            "checkout": "15/10/19",
+            "status": "Discharged",
+            "id": 3
+        }
+    ],
+    "admin": [{
+        "id": 1,
+        "username": "Damilola",
+        "password": "decagon",
+        "level": 2
+    }]
+}
